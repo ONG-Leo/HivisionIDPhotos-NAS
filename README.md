@@ -1,4 +1,4 @@
-# HivisionIDPhotos--NAS-
+# HivisionIDPhotos-NAS
 
 AI抠图项目HivisionIDPhotos，使用群晖NAS部署设置教程
 
